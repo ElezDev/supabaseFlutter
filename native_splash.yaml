@@ -1,0 +1,17 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+  
+  background_image: "assets/images/tar.png"
+  image: "assets/images/tar.png"
+  branding: "assets/images/tar.png"
+
+  background_image_dark: "assets/images/tar.png"
+  image_dark: "assets/images/tar.png"
+ 
+
+  android_12:
+    color: "#FFFFFF"  
+    image: "assets/images/tar.png"
+   
