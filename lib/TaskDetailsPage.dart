@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:login/utils/styles.dart';
+import 'package:misTask/utils/styles.dart';
 
 class TaskDetailsPage extends StatelessWidget {
   final dynamic task;

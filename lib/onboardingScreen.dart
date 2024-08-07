@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:login/ProfileScreen.dart';
-import 'package:login/main.dart';
-import 'package:login/utils/styles.dart';
+import 'package:misTask/ProfileScreen.dart';
+import 'package:misTask/main.dart';
+import 'package:misTask/utils/styles.dart';
+
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 class OnboardingScreen extends StatefulWidget {

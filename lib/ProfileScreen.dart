@@ -1,9 +1,9 @@
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:flutter/material.dart';
-import 'package:login/addTaskScreen.dart';
-import 'package:login/onboardingScreen.dart';
-import 'package:login/utils/styles.dart';
-import 'package:login/utils/utils.dart';
+import 'package:misTask/addTaskScreen.dart';
+import 'package:misTask/onboardingScreen.dart';
+import 'package:misTask/utils/styles.dart';
+import 'package:misTask/utils/utils.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 class HomeScreen extends StatefulWidget {
